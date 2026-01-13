@@ -1,7 +1,7 @@
 # 🧠 Mindvane: Bilgi Yarışması & Quiz
 
 <div align="center">
-  <img src="playstoreturkish.jpg" width="100%" style="border-radius: 10px" alt="Mindvane Banner">
+  <img src="playstoreturkish.jpg" width="600" style="border-radius: 10px" alt="Mindvane Banner">
   <br><br>
   <h1>Mindvane</h1>
   <p>
