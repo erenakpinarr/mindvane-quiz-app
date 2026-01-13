@@ -50,7 +50,7 @@ Bu projede sektör standardı modern teknolojiler ve mimari desenler kullanılm�
 * **Frontend:** Flutter (Dart) - *Clean Architecture Prensipleri*
 * **Backend:** Firebase (Firestore NoSQL, Authentication, Cloud Functions)
 * **State Management:** Provider & Riverpod
-* **Monetization (Gelir Modeli):** Google AdMob (Ödüllü Reklamlar, Banner) & RevenueCat (Uygulama İçi Satın Alma)
+* **Monetization (Gelir Modeli):** Unity Ads (Ödüllü Reklamlar, Banner) & RevenueCat (Uygulama İçi Satın Alma)
 * **DevOps:** CI/CD süreçleri, Google Play Console Sürüm Yönetimi, Git Sürüm Kontrolü
 
 ---
